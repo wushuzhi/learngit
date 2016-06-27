@@ -4,13 +4,4 @@ git has mutable index called stage.
 git tracks changes of files.
 
 
-
-test github
-
-
-creating a new branch is qucik and simple.
-
-
-
-
-master branch test3
+dev branch test 2
