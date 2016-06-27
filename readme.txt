@@ -8,4 +8,4 @@ git tracks changes of files.
 test github
 
 
-creating a new branch is qucik.
+creating a new branch is qucik and simple.
