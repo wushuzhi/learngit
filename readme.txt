@@ -3,5 +3,4 @@ git is a free software distributed under GPL.
 git has mutable index called stage.
 git tracks changes of files.
 
-
-dev branch test 2
+jinyong fast forward 
